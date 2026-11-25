@@ -1,0 +1,6 @@
+{
+  "name": "J&V Limpia Plus S.A.S. — Plataforma Documental Empresarial",
+  "description": "Sistema de gestión, consulta, visualización y control documental empresarial y SG-SST de J&V Limpia Plus S.A.S. (Medellín, Colombia).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
